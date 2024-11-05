@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="90.993248mm"
+   height="92.05571mm"
+   viewBox="0 0 90.993248 92.05571"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="tempestade.svg"
+   inkscape:export-filename="tempestade.png"
+   inkscape:export-xdpi="27.591988"
+   inkscape:export-ydpi="27.591988"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.39622481"
+     inkscape:cx="132.50054"
+     inkscape:cy="407.59689"
+     inkscape:window-width="1152"
+     inkscape:window-height="832"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer6" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient39"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#dd6500;stop-opacity:1;"
+         offset="0"
+         id="stop37" />
+      <stop
+         style="stop-color:#ffe601;stop-opacity:1;"
+         offset="1"
+         id="stop38" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient2"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#5093ff;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+      <stop
+         style="stop-color:#002a81;stop-opacity:1;"
+         offset="1"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient95"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#e8f5fd;stop-opacity:1;"
+         offset="0"
+         id="stop95" />
+      <stop
+         style="stop-color:#6baef9;stop-opacity:1;"
+         offset="1"
+         id="stop96" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#e00b0b;stop-opacity:1;"
+         offset="0.23551409"
+         id="stop18" />
+      <stop
+         style="stop-color:#ff9533;stop-opacity:0;"
+         offset="1"
+         id="stop19" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient16-1"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#e6fe15;stop-opacity:1;"
+         offset="0.23551409"
+         id="stop16" />
+      <stop
+         style="stop-color:#ff9533;stop-opacity:0;"
+         offset="1"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient95"
+       id="linearGradient104"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5021241,0,0,0.51987591,88.586977,46.516734)"
+       x1="96.854454"
+       y1="33.101536"
+       x2="97.505844"
+       y2="99.249107" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2"
+       id="linearGradient114"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.87575043,0,0,0.91679551,18.825701,-4.0657083)"
+       x1="96.854454"
+       y1="33.101536"
+       x2="97.505844"
+       y2="99.249107" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39"
+       id="linearGradient31"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.95268466,0,0,0.95268466,82.175927,59.117855)"
+       x1="17.211981"
+       y1="28.814011"
+       x2="16.535624"
+       y2="55.256165" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39"
+       id="linearGradient41"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.66088665,0,0,0.66088665,73.462988,68.541562)"
+       x1="17.211981"
+       y1="28.814011"
+       x2="16.535624"
+       y2="55.256165" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient39"
+       id="linearGradient42"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.66088665,0,0,0.66088665,100.88993,68.55106)"
+       x1="17.211981"
+       y1="28.814011"
+       x2="16.535624"
+       y2="55.256165" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="Layer 3"
+     transform="translate(-55.678611,-25.17432)">
+    <path
+       d="m 133.86508,63.09751 c -3.336,0.0194 -6.40131,1.9367 -8.01272,5.01174 -0.47397,-0.10115 -0.95626,-0.15316 -1.43987,-0.15528 -3.95027,0.0166 -7.19231,3.295797 -7.36585,7.450289 -4.26318,0.935754 -7.32113,4.887494 -7.32952,9.471885 4e-5,5.354105 4.1234,9.694696 9.20945,9.694616 1.03336,-0.0207 2.05614,-0.22427 3.02529,-0.60232 1.73892,2.12589 4.26784,3.35469 6.93277,3.36865 2.24138,-0.0157 4.40072,-0.89166 6.07259,-2.4633 1.72262,1.93134 4.12151,3.036579 6.63803,3.058359 3.27585,-0.0225 6.29426,-1.875679 7.92582,-4.866119 1.00845,0.41088 2.07799,0.63163 3.15916,0.65202 5.08574,-8e-5 9.20916,-4.340821 9.2092,-9.694616 -0.004,-4.908101 -3.49122,-9.039845 -8.12094,-9.619885 -0.24039,-5.161122 -4.284,-9.216749 -9.1926,-9.219949 -1.38721,5.3e-4 -2.75643,0.33097 -4.00532,0.96663 -1.73974,-1.94723 -4.16615,-3.05187 -6.70549,-3.05272 z"
+       style="display:none;fill:url(#linearGradient104);stroke-width:0.0843048"
+       id="path95-5-0-7-3" />
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-55.678611,-25.17432)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Layer 5"
+     transform="translate(-55.678611,-25.17432)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Layer 4"
+     transform="translate(-55.678611,-25.17432)">
+    <path
+       d="m 97.794819,25.17432 c -5.818265,0.03433 -11.164462,3.415358 -13.974886,8.838152 -0.826634,-0.178356 -1.667854,-0.270105 -2.511244,-0.273843 -6.889668,0.02924 -12.544062,5.812083 -12.846739,13.138536 -7.435368,1.650219 -12.768717,8.619061 -12.783339,16.703613 7.1e-5,9.441945 7.191569,17.096527 16.062115,17.096367 1.80227,-0.0366 3.586089,-0.39551 5.27638,-1.0622 3.0328,3.74893 7.443484,5.91594 12.091351,5.94053 3.909193,-0.0274 7.675282,-1.57243 10.591142,-4.34401 3.004451,3.40592 7.188291,5.355 11.577321,5.39341 5.71339,-0.0396 10.97774,-3.30773 13.82338,-8.581298 1.75881,0.724532 3.62418,1.113838 5.50985,1.149798 8.87004,-1.4e-4 16.06162,-7.654984 16.06171,-17.096366 -0.007,-8.655417 -6.089,-15.941682 -14.16368,-16.964634 -0.41926,-9.101554 -7.47171,-16.253593 -16.03274,-16.259259 -2.41938,9.89e-4 -4.80747,0.583682 -6.98563,1.704654 -3.03427,-3.433923 -7.26615,-5.381929 -11.694991,-5.38345 z"
+       style="fill:url(#linearGradient114);stroke-width:0.147851"
+       id="path95-5-0-2-5-5-0-3-6"
+       inkscape:export-filename="tempestade.png"
+       inkscape:export-xdpi="29.030725"
+       inkscape:export-ydpi="29.030725" />
+    <path
+       style="fill:url(#linearGradient31);stroke-width:0.252461"
+       d="m 95.428401,90.219435 h 8.395669 l -5.645928,9.779034 h 6.594838 l -9.948645,17.231561 3.42631,-12.7871 h -7.026353 z"
+       id="path28-8" />
+    <path
+       style="fill:url(#linearGradient41);stroke-width:0.175135"
+       d="m 82.656358,90.117032 h 5.824158 l -3.916636,6.783807 h 4.574905 l -6.901473,11.953711 2.376864,-8.870551 h -4.874249 z"
+       id="path28-8-90"
+       inkscape:export-filename="tempestade.png"
+       inkscape:export-xdpi="25.220642"
+       inkscape:export-ydpi="25.220642" />
+    <path
+       style="fill:url(#linearGradient42);stroke-width:0.175135"
+       d="m 110.0833,90.126529 h 5.82415 l -3.91663,6.7838 h 4.57491 l -6.90147,11.953721 2.37686,-8.870551 h -4.87425 z"
+       id="path28-8-90-7"
+       inkscape:export-filename="tempestade.png"
+       inkscape:export-xdpi="25.737373"
+       inkscape:export-ydpi="25.737373" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Layer 2"
+     style="fill:#ffba0a;fill-opacity:1"
+     transform="translate(-55.678611,-25.17432)" />
+</svg>
