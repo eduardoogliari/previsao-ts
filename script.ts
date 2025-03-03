@@ -2,7 +2,7 @@
 "use strict";
 
 // Configura os eventos
-(function () {
+document.addEventListener( "DOMContentLoaded", function() {
     const botaoBusca = document.querySelector("#botao_busca");
     const campoNomeCidade = document.querySelector<HTMLInputElement>("#campo-nome-cidade");
 
@@ -24,7 +24,7 @@
             }
         );
     }
-})();
+});
 
 type TempoInfo = {
     desc : string;

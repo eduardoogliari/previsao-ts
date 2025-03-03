@@ -1,6 +1,6 @@
 "use strict";
 // Configura os eventos
-(function () {
+document.addEventListener("DOMContentLoaded", function () {
     const botaoBusca = document.querySelector("#botao_busca");
     const campoNomeCidade = document.querySelector("#campo-nome-cidade");
     if (campoNomeCidade && botaoBusca) {
@@ -14,7 +14,7 @@
             }
         });
     }
-})();
+});
 const WEATHER_CODES = new Map([
     [0, { desc: "Céu limpo", img: "sol.svg" }],
     [1, { desc: "Céu predominantemente limpo", img: "sol_predominante.svg" }],
